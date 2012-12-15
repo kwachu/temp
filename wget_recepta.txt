@@ -1,0 +1,1 @@
+wget --save-cookies cookies.txt --post-data 'pma_username=root&pma_password=qwe123.7' http://z7.ipartner.com.pl/phpmyadmin/

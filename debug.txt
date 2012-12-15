@@ -1,0 +1,30 @@
+Continuing in background, pid 17113.
+Output will be written to “wget-log”.
+FALSE haslo
+
+Cannot
+Continuing in background, pid 17120.
+Output will be written to “wget-log.1”.
+FALSE password
+
+Cannot
+Continuing in background, pid 17127.
+Output will be written to “wget-log.2”.
+FALSE qwe123
+
+Cannot
+Continuing in background, pid 17134.
+Output will be written to “wget-log.3”.
+FALSE qwe123.7
+
+Cannot
+Continuing in background, pid 17141.
+Output will be written to “wget-log.4”.
+FALSE qwe!@#.7
+
+Cannot
+Continuing in background, pid 17148.
+Output will be written to “wget-log.5”.
+FALSE eWq!2#.7
+
+Cannot

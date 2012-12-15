@@ -1,0 +1,1841 @@
+ge
+[1197261.047708] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197261.047724] end_request: I/O error, dev sr0, sector 64
+[1197261.051073] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.051085] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.051095] Info fld=0x40
+[1197261.051100] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.051112] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 40 00 00 02 00
+[1197261.051129] end_request: I/O error, dev sr0, sector 256
+[1197261.055000] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.055013] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.055023] Info fld=0x40
+[1197261.055028] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.055039] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 40 00 00 02 00
+[1197261.055056] end_request: I/O error, dev sr0, sector 256
+[1197261.058412] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.058417] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.058421] Info fld=0x42
+[1197261.058422] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.058427] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 42 00 00 02 00
+[1197261.058432] end_request: I/O error, dev sr0, sector 264
+[1197261.061466] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.061471] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.061474] Info fld=0x42
+[1197261.061475] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.061479] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 42 00 00 02 00
+[1197261.061484] end_request: I/O error, dev sr0, sector 264
+[1197261.064581] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.064585] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.064588] Info fld=0x44
+[1197261.064590] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.064594] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 44 00 00 02 00
+[1197261.064599] end_request: I/O error, dev sr0, sector 272
+[1197261.067651] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.067656] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.067659] Info fld=0x44
+[1197261.067660] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.067664] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 44 00 00 02 00
+[1197261.067669] end_request: I/O error, dev sr0, sector 272
+[1197261.070748] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.070761] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.070771] Info fld=0xc0
+[1197261.070775] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.070787] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c0 00 00 02 00
+[1197261.070804] end_request: I/O error, dev sr0, sector 768
+[1197261.073907] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.073919] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.073929] Info fld=0xc0
+[1197261.073933] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.073945] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c0 00 00 02 00
+[1197261.073961] end_request: I/O error, dev sr0, sector 768
+[1197261.077067] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.077080] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.077090] Info fld=0xc2
+[1197261.077094] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.077106] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c2 00 00 02 00
+[1197261.077123] end_request: I/O error, dev sr0, sector 776
+[1197261.080444] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.080456] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.080466] Info fld=0xc2
+[1197261.080471] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.080482] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c2 00 00 02 00
+[1197261.080499] end_request: I/O error, dev sr0, sector 776
+[1197261.083621] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.083633] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.083643] Info fld=0xc4
+[1197261.083647] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.083659] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c4 00 00 02 00
+[1197261.083675] end_request: I/O error, dev sr0, sector 784
+[1197261.086822] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.086834] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.086844] Info fld=0xc4
+[1197261.086849] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.086860] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c4 00 00 02 00
+[1197261.086876] end_request: I/O error, dev sr0, sector 784
+[1197261.090008] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.090020] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.090030] Info fld=0x0
+[1197261.090034] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.090046] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.090062] end_request: I/O error, dev sr0, sector 0
+[1197261.096641] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.096654] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.096664] Info fld=0x0
+[1197261.096669] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.096680] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.096697] end_request: I/O error, dev sr0, sector 0
+[1197261.100453] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.100466] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.100476] Info fld=0x0
+[1197261.100481] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.100493] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.100510] end_request: I/O error, dev sr0, sector 0
+[1197261.104171] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.104176] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.104180] Info fld=0x0
+[1197261.104181] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.104185] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.104191] end_request: I/O error, dev sr0, sector 0
+[1197261.107259] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.107270] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.107280] Info fld=0x0
+[1197261.107285] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.107297] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.107314] end_request: I/O error, dev sr0, sector 0
+[1197261.110765] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.110778] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.110788] Info fld=0x4
+[1197261.110793] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.110805] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197261.110823] end_request: I/O error, dev sr0, sector 16
+[1197261.113961] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.113974] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.113984] Info fld=0x0
+[1197261.113989] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.114001] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.114018] end_request: I/O error, dev sr0, sector 0
+[1197261.117726] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.117731] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.117734] Info fld=0x0
+[1197261.117736] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.117740] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.117745] end_request: I/O error, dev sr0, sector 0
+[1197261.122468] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.122472] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.122476] Info fld=0x0
+[1197261.122477] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.122481] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.122487] end_request: I/O error, dev sr0, sector 0
+[1197261.126037] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.126041] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.126045] Info fld=0x0
+[1197261.126046] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.126050] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.126056] end_request: I/O error, dev sr0, sector 0
+[1197261.129107] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.129110] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.129113] Info fld=0x0
+[1197261.129114] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.129118] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.129123] end_request: I/O error, dev sr0, sector 0
+[1197261.132241] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.132245] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.132249] Info fld=0x0
+[1197261.132250] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.132254] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.132260] end_request: I/O error, dev sr0, sector 0
+[1197261.135344] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.135349] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.135353] Info fld=0x0
+[1197261.135354] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.135358] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.135363] end_request: I/O error, dev sr0, sector 0
+[1197261.138418] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.138423] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.138426] Info fld=0x0
+[1197261.138427] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.138431] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.138437] end_request: I/O error, dev sr0, sector 0
+[1197261.141549] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.141556] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.141561] Info fld=0x0
+[1197261.141563] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.141570] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.141578] end_request: I/O error, dev sr0, sector 0
+[1197261.144793] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.144799] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.144804] Info fld=0x0
+[1197261.144806] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.144812] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.144821] end_request: I/O error, dev sr0, sector 0
+[1197261.147950] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.147956] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.147961] Info fld=0x0
+[1197261.147963] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.147969] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.147978] end_request: I/O error, dev sr0, sector 0
+[1197261.151967] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.151974] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.151979] Info fld=0x0
+[1197261.151982] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.151988] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.151996] end_request: I/O error, dev sr0, sector 0
+[1197261.155204] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.155215] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.155225] Info fld=0x20
+[1197261.155229] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.155241] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197261.155258] end_request: I/O error, dev sr0, sector 128
+[1197261.158355] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.158375] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.158395] Info fld=0x20
+[1197261.158404] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.158425] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197261.158452] end_request: I/O error, dev sr0, sector 128
+[1197261.161704] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.161714] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.161723] Info fld=0x4
+[1197261.161728] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.161739] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197261.161756] end_request: I/O error, dev sr0, sector 16
+[1197261.164815] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.164818] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.164820] Info fld=0x0
+[1197261.164821] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.164825] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.164829] end_request: I/O error, dev sr0, sector 0
+[1197261.168182] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.168187] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.168191] Info fld=0x0
+[1197261.168192] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.168197] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.168202] end_request: I/O error, dev sr0, sector 0
+[1197261.171750] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.171796] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.171799] Info fld=0x2
+[1197261.171801] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.171805] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197261.171810] end_request: I/O error, dev sr0, sector 8
+[1197261.174907] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.174912] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.174915] Info fld=0x4
+[1197261.174917] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.174921] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197261.174926] end_request: I/O error, dev sr0, sector 16
+[1197261.177999] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.178004] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.178007] Info fld=0x0
+[1197261.178009] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.178013] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.178018] end_request: I/O error, dev sr0, sector 0
+[1197261.181309] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.181314] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.181317] Info fld=0x0
+[1197261.181318] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.181323] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.181328] end_request: I/O error, dev sr0, sector 0
+[1197261.184894] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.184899] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.184902] Info fld=0x0
+[1197261.184904] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.184908] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 01 00
+[1197261.184913] end_request: I/O error, dev sr0, sector 0
+[1197261.187979] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.187983] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.187987] Info fld=0x1
+[1197261.187988] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.187992] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 01 00 00 01 00
+[1197261.187997] end_request: I/O error, dev sr0, sector 4
+[1197261.191229] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.191234] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.191237] Info fld=0x0
+[1197261.191238] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.191242] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.191247] end_request: I/O error, dev sr0, sector 0
+[1197261.194299] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.194306] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.194311] Info fld=0x0
+[1197261.194313] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.194319] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.194327] end_request: I/O error, dev sr0, sector 0
+[1197261.197432] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.197439] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.197444] Info fld=0x0
+[1197261.197446] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.197452] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.197460] end_request: I/O error, dev sr0, sector 0
+[1197261.200502] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.200509] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.200514] Info fld=0x2
+[1197261.200517] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.200523] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197261.200531] end_request: I/O error, dev sr0, sector 8
+[1197261.203566] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.203573] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.203578] Info fld=0x20
+[1197261.203580] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.203586] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197261.203594] end_request: I/O error, dev sr0, sector 128
+[1197261.207014] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.207026] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.207036] Info fld=0x0
+[1197261.207041] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.207052] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.207069] end_request: I/O error, dev sr0, sector 0
+[1197261.210178] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.210191] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.210201] Info fld=0x0
+[1197261.210205] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.210217] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.210233] end_request: I/O error, dev sr0, sector 0
+[1197261.213376] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.213386] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.213389] Info fld=0x400
+[1197261.213391] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.213395] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 04 00 00 00 02 00
+[1197261.213401] end_request: I/O error, dev sr0, sector 4096
+[1197261.228264] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.228277] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.228287] Info fld=0x0
+[1197261.228292] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.228304] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.228322] end_request: I/O error, dev sr0, sector 0
+[1197261.231551] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197261.231564] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197261.231574] Info fld=0x0
+[1197261.231579] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197261.231591] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197261.231608] end_request: I/O error, dev sr0, sector 0
+[1197382.269150] cdrom: This disc doesn't have any tracks I recognize!
+[1197382.285148] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.285161] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.285173] Info fld=0x119340
+[1197382.285178] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.285191] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 40 00 00 02 00
+[1197382.285209] end_request: I/O error, dev sr0, sector 4607232
+[1197382.285221] __ratelimit: 258 callbacks suppressed
+[1197382.285229] Buffer I/O error on device sr0, logical block 1151808
+[1197382.285240] Buffer I/O error on device sr0, logical block 1151809
+[1197382.288303] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.288316] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.288326] Info fld=0x119340
+[1197382.288331] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.288343] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 40 00 00 02 00
+[1197382.288360] end_request: I/O error, dev sr0, sector 4607232
+[1197382.288371] Buffer I/O error on device sr0, logical block 1151808
+[1197382.288381] Buffer I/O error on device sr0, logical block 1151809
+[1197382.291560] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.291573] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.291583] Info fld=0x119364
+[1197382.291587] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.291599] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 64 00 00 02 00
+[1197382.291616] end_request: I/O error, dev sr0, sector 4607376
+[1197382.291626] Buffer I/O error on device sr0, logical block 1151844
+[1197382.291637] Buffer I/O error on device sr0, logical block 1151845
+[1197382.294781] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.294793] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.294804] Info fld=0x119364
+[1197382.294808] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.294820] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 64 00 00 02 00
+[1197382.294837] end_request: I/O error, dev sr0, sector 4607376
+[1197382.294847] Buffer I/O error on device sr0, logical block 1151844
+[1197382.294857] Buffer I/O error on device sr0, logical block 1151845
+[1197382.298151] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.298163] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.298173] Info fld=0x0
+[1197382.298178] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.298190] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.298206] end_request: I/O error, dev sr0, sector 0
+[1197382.298216] Buffer I/O error on device sr0, logical block 0
+[1197382.298226] Buffer I/O error on device sr0, logical block 1
+[1197382.301373] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.301386] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.301396] Info fld=0x0
+[1197382.301400] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.301412] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.301428] end_request: I/O error, dev sr0, sector 0
+[1197382.304739] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.304753] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.304765] Info fld=0x2
+[1197382.304771] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.304789] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.304838] end_request: I/O error, dev sr0, sector 8
+[1197382.307992] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.308009] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.308019] Info fld=0x119368
+[1197382.308024] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.308036] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.308053] end_request: I/O error, dev sr0, sector 4607392
+[1197382.311245] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.311258] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.311268] Info fld=0x119368
+[1197382.311273] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.311284] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.311301] end_request: I/O error, dev sr0, sector 4607392
+[1197382.314442] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.314455] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.314465] Info fld=0x119368
+[1197382.314470] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.314481] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.314498] end_request: I/O error, dev sr0, sector 4607392
+[1197382.319695] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.319708] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.319719] Info fld=0x119368
+[1197382.319724] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.319736] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.319753] end_request: I/O error, dev sr0, sector 4607392
+[1197382.322916] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.322929] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.322939] Info fld=0x119368
+[1197382.322943] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.322955] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.322972] end_request: I/O error, dev sr0, sector 4607392
+[1197382.326126] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.326138] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.326149] Info fld=0x119368
+[1197382.326154] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.326166] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.326183] end_request: I/O error, dev sr0, sector 4607392
+[1197382.329335] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.329347] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.329358] Info fld=0x119358
+[1197382.329362] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.329374] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 58 00 00 02 00
+[1197382.329391] end_request: I/O error, dev sr0, sector 4607328
+[1197382.332572] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.332588] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.332606] Info fld=0x119366
+[1197382.332613] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.332632] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 66 00 00 02 00
+[1197382.332679] end_request: I/O error, dev sr0, sector 4607384
+[1197382.335845] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.335857] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.335868] Info fld=0x2
+[1197382.335872] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.335884] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.335900] end_request: I/O error, dev sr0, sector 8
+[1197382.339057] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.339069] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.339079] Info fld=0x2
+[1197382.339083] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.339095] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.339111] end_request: I/O error, dev sr0, sector 8
+[1197382.342286] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.342298] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.342308] Info fld=0x119368
+[1197382.342313] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.342324] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.342341] end_request: I/O error, dev sr0, sector 4607392
+[1197382.345396] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.345408] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.345418] Info fld=0x119368
+[1197382.345423] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.345435] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 68 00 00 01 00
+[1197382.345452] end_request: I/O error, dev sr0, sector 4607392
+[1197382.348723] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.348736] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.348746] Info fld=0x119366
+[1197382.348750] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.348762] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 11 93 66 00 00 02 00
+[1197382.348779] end_request: I/O error, dev sr0, sector 4607384
+[1197382.352148] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.352160] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.352170] Info fld=0x0
+[1197382.352174] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.352186] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.352202] end_request: I/O error, dev sr0, sector 0
+[1197382.355332] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.355344] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.355354] Info fld=0x0
+[1197382.355359] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.355370] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.355387] end_request: I/O error, dev sr0, sector 0
+[1197382.358536] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.358549] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.358558] Info fld=0x0
+[1197382.358563] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.358575] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.358591] end_request: I/O error, dev sr0, sector 0
+[1197382.361738] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.361751] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.361761] Info fld=0x0
+[1197382.361765] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.361777] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.361793] end_request: I/O error, dev sr0, sector 0
+[1197382.364951] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.364964] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.364974] Info fld=0x0
+[1197382.364978] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.364990] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.365006] end_request: I/O error, dev sr0, sector 0
+[1197382.368155] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.368167] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.368177] Info fld=0x0
+[1197382.368181] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.368193] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.368209] end_request: I/O error, dev sr0, sector 0
+[1197382.371408] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.371420] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.371430] Info fld=0x0
+[1197382.371434] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.371446] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.371463] end_request: I/O error, dev sr0, sector 0
+[1197382.374604] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.374616] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.374627] Info fld=0x200
+[1197382.374631] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.374643] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 02 00 00 00 02 00
+[1197382.374660] end_request: I/O error, dev sr0, sector 2048
+[1197382.377832] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.377844] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.377854] Info fld=0x0
+[1197382.377859] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.377870] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.377887] end_request: I/O error, dev sr0, sector 0
+[1197382.380935] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.380948] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.380959] Info fld=0x0
+[1197382.380963] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.380975] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.380993] end_request: I/O error, dev sr0, sector 0
+[1197382.384134] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.384147] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.384157] Info fld=0x0
+[1197382.384161] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.384178] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.384225] end_request: I/O error, dev sr0, sector 0
+[1197382.387403] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.387416] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.387426] Info fld=0x0
+[1197382.387430] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.387442] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.387459] end_request: I/O error, dev sr0, sector 0
+[1197382.390521] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.390533] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.390543] Info fld=0x0
+[1197382.390547] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.390559] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.390576] end_request: I/O error, dev sr0, sector 0
+[1197382.393713] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.393725] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.393735] Info fld=0x0
+[1197382.393740] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.393751] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.393768] end_request: I/O error, dev sr0, sector 0
+[1197382.396877] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.396890] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.396899] Info fld=0x0
+[1197382.396904] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.396915] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.396932] end_request: I/O error, dev sr0, sector 0
+[1197382.400277] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.400289] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.400299] Info fld=0x0
+[1197382.400303] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.400315] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.400331] end_request: I/O error, dev sr0, sector 0
+[1197382.404657] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.404670] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.404680] Info fld=0x0
+[1197382.404684] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.404696] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.404713] end_request: I/O error, dev sr0, sector 0
+[1197382.407861] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.407874] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.407885] Info fld=0x0
+[1197382.407889] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.407901] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.407919] end_request: I/O error, dev sr0, sector 0
+[1197382.411502] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.411515] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.411525] Info fld=0x0
+[1197382.411529] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.411541] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.411558] end_request: I/O error, dev sr0, sector 0
+[1197382.414685] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.414697] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.414707] Info fld=0x0
+[1197382.414712] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.414724] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.414740] end_request: I/O error, dev sr0, sector 0
+[1197382.418843] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.418856] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.418867] Info fld=0x2
+[1197382.418872] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.418884] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.418902] end_request: I/O error, dev sr0, sector 8
+[1197382.422058] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.422070] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.422080] Info fld=0x2
+[1197382.422085] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.422097] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.422113] end_request: I/O error, dev sr0, sector 8
+[1197382.425295] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.425307] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.425317] Info fld=0x2
+[1197382.425322] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.425334] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.425350] end_request: I/O error, dev sr0, sector 8
+[1197382.428447] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.428459] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.428469] Info fld=0x2
+[1197382.428473] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.428485] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.428538] end_request: I/O error, dev sr0, sector 8
+[1197382.431703] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.431716] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.431726] Info fld=0x6
+[1197382.431730] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.431742] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 06 00 00 02 00
+[1197382.431759] end_request: I/O error, dev sr0, sector 24
+[1197382.437729] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.437742] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.437753] Info fld=0x6
+[1197382.437758] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.437771] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 06 00 00 02 00
+[1197382.437789] end_request: I/O error, dev sr0, sector 24
+[1197382.443872] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.443885] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.443896] Info fld=0x6
+[1197382.443900] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.443912] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 06 00 00 02 00
+[1197382.443930] end_request: I/O error, dev sr0, sector 24
+[1197382.453580] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.453592] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.453604] Info fld=0x6
+[1197382.453608] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.453620] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 06 00 00 02 00
+[1197382.453639] end_request: I/O error, dev sr0, sector 24
+[1197382.456703] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.456709] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.456712] Info fld=0xe
+[1197382.456714] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.456718] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 0e 00 00 02 00
+[1197382.456724] end_request: I/O error, dev sr0, sector 56
+[1197382.461286] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.461291] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.461294] Info fld=0xe
+[1197382.461296] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.461300] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 0e 00 00 02 00
+[1197382.461305] end_request: I/O error, dev sr0, sector 56
+[1197382.464366] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.464371] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.464375] Info fld=0xe
+[1197382.464377] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.464381] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 0e 00 00 02 00
+[1197382.464386] end_request: I/O error, dev sr0, sector 56
+[1197382.467470] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.467475] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.467478] Info fld=0xe
+[1197382.467479] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.467483] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 0e 00 00 02 00
+[1197382.467488] end_request: I/O error, dev sr0, sector 56
+[1197382.470836] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.470840] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.470843] Info fld=0x1e
+[1197382.470845] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.470849] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 1e 00 00 02 00
+[1197382.470854] end_request: I/O error, dev sr0, sector 120
+[1197382.473948] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.473955] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.473960] Info fld=0x1e
+[1197382.473962] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.473968] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 1e 00 00 02 00
+[1197382.473977] end_request: I/O error, dev sr0, sector 120
+[1197382.477088] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.477094] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.477100] Info fld=0x1e
+[1197382.477102] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.477108] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 1e 00 00 02 00
+[1197382.477116] end_request: I/O error, dev sr0, sector 120
+[1197382.480423] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.480437] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.480448] Info fld=0x1e
+[1197382.480453] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.480465] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 1e 00 00 02 00
+[1197382.480483] end_request: I/O error, dev sr0, sector 120
+[1197382.483676] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.483689] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.483699] Info fld=0x0
+[1197382.483704] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.483715] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.483732] end_request: I/O error, dev sr0, sector 0
+[1197382.486882] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.486895] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.486906] Info fld=0x0
+[1197382.486910] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.486922] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.486940] end_request: I/O error, dev sr0, sector 0
+[1197382.490767] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.490779] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.490789] Info fld=0x2
+[1197382.490793] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.490804] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.490822] end_request: I/O error, dev sr0, sector 8
+[1197382.493928] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.493935] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.493941] Info fld=0x2
+[1197382.493943] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.493950] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.493959] end_request: I/O error, dev sr0, sector 8
+[1197382.497034] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.497040] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.497046] Info fld=0x6
+[1197382.497048] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.497055] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 06 00 00 02 00
+[1197382.497063] end_request: I/O error, dev sr0, sector 24
+[1197382.500204] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.500211] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.500216] Info fld=0x6
+[1197382.500218] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.500224] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 06 00 00 02 00
+[1197382.500232] end_request: I/O error, dev sr0, sector 24
+[1197382.503317] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.503324] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.503329] Info fld=0xe
+[1197382.503331] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.503337] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 0e 00 00 02 00
+[1197382.503345] end_request: I/O error, dev sr0, sector 56
+[1197382.506552] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.506559] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.506564] Info fld=0xe
+[1197382.506566] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.506572] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 0e 00 00 02 00
+[1197382.506581] end_request: I/O error, dev sr0, sector 56
+[1197382.509915] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.509928] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.509938] Info fld=0x1e
+[1197382.509942] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.509954] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 1e 00 00 02 00
+[1197382.509971] end_request: I/O error, dev sr0, sector 120
+[1197382.513113] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.513125] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.513135] Info fld=0x1e
+[1197382.513140] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.513151] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 1e 00 00 02 00
+[1197382.513168] end_request: I/O error, dev sr0, sector 120
+[1197382.518936] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.518949] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.518960] Info fld=0x0
+[1197382.518965] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.518977] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.518994] end_request: I/O error, dev sr0, sector 0
+[1197382.522173] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.522186] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.522196] Info fld=0x0
+[1197382.522200] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.522212] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.522229] end_request: I/O error, dev sr0, sector 0
+[1197382.525566] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.525579] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.525588] Info fld=0x0
+[1197382.525593] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.525605] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.525621] end_request: I/O error, dev sr0, sector 0
+[1197382.528780] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.528785] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.528789] Info fld=0x0
+[1197382.528791] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.528795] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.528800] end_request: I/O error, dev sr0, sector 0
+[1197382.531955] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.531967] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.531978] Info fld=0x0
+[1197382.531982] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.531994] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.532011] end_request: I/O error, dev sr0, sector 0
+[1197382.535156] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.535169] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.535179] Info fld=0x0
+[1197382.535183] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.535195] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.535212] end_request: I/O error, dev sr0, sector 0
+[1197382.538346] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.538359] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.538369] Info fld=0x4
+[1197382.538373] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.538385] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197382.538401] end_request: I/O error, dev sr0, sector 16
+[1197382.545586] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.545600] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.545611] Info fld=0x20
+[1197382.545616] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.545628] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197382.545645] end_request: I/O error, dev sr0, sector 128
+[1197382.548743] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.548756] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.548767] Info fld=0x20
+[1197382.548772] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.548784] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197382.548801] end_request: I/O error, dev sr0, sector 128
+[1197382.551873] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.551884] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.551895] Info fld=0x20
+[1197382.551899] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.551911] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197382.551929] end_request: I/O error, dev sr0, sector 128
+[1197382.554990] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.555000] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.555010] Info fld=0x4
+[1197382.555014] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.555026] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197382.555043] end_request: I/O error, dev sr0, sector 16
+[1197382.558125] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.558135] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.558145] Info fld=0x20
+[1197382.558149] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.558161] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197382.558178] end_request: I/O error, dev sr0, sector 128
+[1197382.561287] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.561298] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.561308] Info fld=0x10
+[1197382.561313] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.561324] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.561342] end_request: I/O error, dev sr0, sector 64
+[1197382.564449] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.564459] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.564469] Info fld=0x10
+[1197382.564473] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.564485] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.564527] end_request: I/O error, dev sr0, sector 64
+[1197382.567749] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.567759] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.567768] Info fld=0x10
+[1197382.567772] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.567784] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.567800] end_request: I/O error, dev sr0, sector 64
+[1197382.570838] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.570843] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.570846] Info fld=0x10
+[1197382.570848] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.570852] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.570857] end_request: I/O error, dev sr0, sector 64
+[1197382.574032] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.574037] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.574040] Info fld=0x10
+[1197382.574042] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.574046] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.574051] end_request: I/O error, dev sr0, sector 64
+[1197382.577084] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.577089] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.577092] Info fld=0x10
+[1197382.577094] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.577098] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.577103] end_request: I/O error, dev sr0, sector 64
+[1197382.580346] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.580350] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.580354] Info fld=0x10
+[1197382.580355] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.580360] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.580365] end_request: I/O error, dev sr0, sector 64
+[1197382.583462] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.583466] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.583470] Info fld=0x10
+[1197382.583471] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.583475] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.583481] end_request: I/O error, dev sr0, sector 64
+[1197382.586513] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.586517] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.586520] Info fld=0x10
+[1197382.586521] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.586525] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.586530] end_request: I/O error, dev sr0, sector 64
+[1197382.589654] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.589659] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.589662] Info fld=0x10
+[1197382.589664] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.589668] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 10 00 00 02 00
+[1197382.589674] end_request: I/O error, dev sr0, sector 64
+[1197382.592738] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.592742] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.592745] Info fld=0x40
+[1197382.592747] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.592751] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 40 00 00 02 00
+[1197382.592756] end_request: I/O error, dev sr0, sector 256
+[1197382.595862] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.595867] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.595870] Info fld=0x40
+[1197382.595871] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.595875] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 40 00 00 02 00
+[1197382.595880] end_request: I/O error, dev sr0, sector 256
+[1197382.599108] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.599114] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.599119] Info fld=0x42
+[1197382.599122] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.599128] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 42 00 00 02 00
+[1197382.599136] end_request: I/O error, dev sr0, sector 264
+[1197382.602210] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.602217] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.602222] Info fld=0x42
+[1197382.602224] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.602230] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 42 00 00 02 00
+[1197382.602238] end_request: I/O error, dev sr0, sector 264
+[1197382.605541] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.605548] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.605553] Info fld=0x44
+[1197382.605555] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.605562] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 44 00 00 02 00
+[1197382.605570] end_request: I/O error, dev sr0, sector 272
+[1197382.609272] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.609284] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.609295] Info fld=0x44
+[1197382.609299] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.609311] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 44 00 00 02 00
+[1197382.609328] end_request: I/O error, dev sr0, sector 272
+[1197382.612502] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.612514] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.612525] Info fld=0xc0
+[1197382.612529] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.612542] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c0 00 00 02 00
+[1197382.612559] end_request: I/O error, dev sr0, sector 768
+[1197382.615748] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.615761] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.615772] Info fld=0xc0
+[1197382.615777] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.615789] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c0 00 00 02 00
+[1197382.615806] end_request: I/O error, dev sr0, sector 768
+[1197382.619283] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.619287] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.619290] Info fld=0xc2
+[1197382.619292] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.619296] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c2 00 00 02 00
+[1197382.619301] end_request: I/O error, dev sr0, sector 776
+[1197382.622342] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.622355] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.622366] Info fld=0xc2
+[1197382.622371] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.622383] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c2 00 00 02 00
+[1197382.622400] end_request: I/O error, dev sr0, sector 776
+[1197382.626380] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.626394] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.626404] Info fld=0xc4
+[1197382.626409] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.626421] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c4 00 00 02 00
+[1197382.626438] end_request: I/O error, dev sr0, sector 784
+[1197382.630583] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.630588] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.630591] Info fld=0xc4
+[1197382.630593] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.630597] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 c4 00 00 02 00
+[1197382.630602] end_request: I/O error, dev sr0, sector 784
+[1197382.633726] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.633739] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.633750] Info fld=0x0
+[1197382.633755] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.633767] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.633785] end_request: I/O error, dev sr0, sector 0
+[1197382.637099] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.637112] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.637122] Info fld=0x0
+[1197382.637126] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.637138] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.637155] end_request: I/O error, dev sr0, sector 0
+[1197382.640458] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.640470] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.640480] Info fld=0x0
+[1197382.640484] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.640496] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.640513] end_request: I/O error, dev sr0, sector 0
+[1197382.643625] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.643638] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.643648] Info fld=0x0
+[1197382.643653] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.643664] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.643681] end_request: I/O error, dev sr0, sector 0
+[1197382.646752] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.646757] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.646760] Info fld=0x0
+[1197382.646762] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.646766] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.646771] end_request: I/O error, dev sr0, sector 0
+[1197382.649910] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.649915] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.649918] Info fld=0x4
+[1197382.649919] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.649924] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197382.649929] end_request: I/O error, dev sr0, sector 16
+[1197382.653101] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.653104] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.653106] Info fld=0x0
+[1197382.653108] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.653110] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.653115] end_request: I/O error, dev sr0, sector 0
+[1197382.656483] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.656487] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.656490] Info fld=0x0
+[1197382.656491] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.656495] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.656528] end_request: I/O error, dev sr0, sector 0
+[1197382.660197] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.660200] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.660203] Info fld=0x0
+[1197382.660204] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.660208] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.660212] end_request: I/O error, dev sr0, sector 0
+[1197382.663369] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.663384] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.663395] Info fld=0x0
+[1197382.663401] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.663423] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.663441] end_request: I/O error, dev sr0, sector 0
+[1197382.666820] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.666825] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.666829] Info fld=0x0
+[1197382.666830] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.666835] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.666840] end_request: I/O error, dev sr0, sector 0
+[1197382.670231] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.670235] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.670238] Info fld=0x0
+[1197382.670240] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.670244] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.670249] end_request: I/O error, dev sr0, sector 0
+[1197382.673351] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.673356] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.673359] Info fld=0x0
+[1197382.673360] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.673365] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.673370] end_request: I/O error, dev sr0, sector 0
+[1197382.676452] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.676457] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.676460] Info fld=0x0
+[1197382.676462] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.676466] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.676471] end_request: I/O error, dev sr0, sector 0
+[1197382.679961] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.679968] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.679973] Info fld=0x0
+[1197382.679975] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.679982] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.679990] end_request: I/O error, dev sr0, sector 0
+[1197382.684802] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.684808] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.684814] Info fld=0x0
+[1197382.684816] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.684822] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.684831] end_request: I/O error, dev sr0, sector 0
+[1197382.687914] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.687919] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.687923] Info fld=0x0
+[1197382.687925] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.687929] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.687935] end_request: I/O error, dev sr0, sector 0
+[1197382.691018] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.691025] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.691030] Info fld=0x0
+[1197382.691032] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.691039] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.691047] end_request: I/O error, dev sr0, sector 0
+[1197382.694178] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.694184] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.694190] Info fld=0x20
+[1197382.694192] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.694198] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197382.694207] end_request: I/O error, dev sr0, sector 128
+[1197382.697292] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.697299] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.697304] Info fld=0x20
+[1197382.697306] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.697312] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197382.697321] end_request: I/O error, dev sr0, sector 128
+[1197382.700448] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.700454] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.700459] Info fld=0x4
+[1197382.700461] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.700467] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197382.700476] end_request: I/O error, dev sr0, sector 16
+[1197382.703625] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.703637] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.703647] Info fld=0x0
+[1197382.703652] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.703663] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.703680] end_request: I/O error, dev sr0, sector 0
+[1197382.706850] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.706862] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.706873] Info fld=0x0
+[1197382.706877] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.706889] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.706905] end_request: I/O error, dev sr0, sector 0
+[1197382.710106] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.710119] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.710129] Info fld=0x2
+[1197382.710133] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.710145] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.710162] end_request: I/O error, dev sr0, sector 8
+[1197382.713303] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.713315] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.713325] Info fld=0x4
+[1197382.713330] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.713341] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 04 00 00 02 00
+[1197382.713358] end_request: I/O error, dev sr0, sector 16
+[1197382.716553] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.716566] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.716577] Info fld=0x0
+[1197382.716582] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.716595] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.716612] end_request: I/O error, dev sr0, sector 0
+[1197382.719744] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.719756] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.719767] Info fld=0x0
+[1197382.719771] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.719783] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.719800] end_request: I/O error, dev sr0, sector 0
+[1197382.723122] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.723134] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.723144] Info fld=0x0
+[1197382.723149] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.723160] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.723177] end_request: I/O error, dev sr0, sector 0
+[1197382.726641] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.726653] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.726663] Info fld=0x0
+[1197382.726668] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.726679] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.726695] end_request: I/O error, dev sr0, sector 0
+[1197382.729932] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.729945] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.729955] Info fld=0x0
+[1197382.729959] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.729971] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.729987] end_request: I/O error, dev sr0, sector 0
+[1197382.733114] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.733126] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.733136] Info fld=0x0
+[1197382.733140] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.733152] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.733168] end_request: I/O error, dev sr0, sector 0
+[1197382.736230] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.736242] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.736252] Info fld=0x2
+[1197382.736257] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.736269] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 02 00 00 02 00
+[1197382.736286] end_request: I/O error, dev sr0, sector 8
+[1197382.739455] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.739467] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.739478] Info fld=0x20
+[1197382.739482] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.739494] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 20 00 00 02 00
+[1197382.739554] end_request: I/O error, dev sr0, sector 128
+[1197382.742691] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.742703] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.742713] Info fld=0x0
+[1197382.742718] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.742730] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.742746] end_request: I/O error, dev sr0, sector 0
+[1197382.745917] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.745930] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.745940] Info fld=0x0
+[1197382.745944] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.745956] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.745972] end_request: I/O error, dev sr0, sector 0
+[1197382.749243] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.749255] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.749265] Info fld=0x400
+[1197382.749270] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.749282] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 04 00 00 00 02 00
+[1197382.749298] end_request: I/O error, dev sr0, sector 4096
+[1197382.764260] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.764267] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.764273] Info fld=0x0
+[1197382.764275] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.764282] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.764290] end_request: I/O error, dev sr0, sector 0
+[1197382.767614] sr 6:0:1:0: [sr0] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[1197382.767621] sr 6:0:1:0: [sr0] Sense Key : Illegal Request [current] 
+[1197382.767626] Info fld=0x0
+[1197382.767628] sr 6:0:1:0: [sr0] Add. Sense: Logical block address out of range
+[1197382.767634] sr 6:0:1:0: [sr0] CDB: Read(10): 28 00 00 00 00 00 00 00 02 00
+[1197382.767643] end_request: I/O error, dev sr0, sector 0
+[1198680.656107] INFO: task udisks-daemon:3537 blocked for more than 120 seconds.
+[1198680.656118] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1198680.656127] udisks-daemon D 0000000000000002     0  3537   3536 0x00000000
+[1198680.656140]  ffff88012faac6a0 0000000000000082 0000000000000020 ffff88012b6db000
+[1198680.656152]  ffff88012b6db000 ffffffffa0038f61 000000000000f9e0 ffff88011ef59fd8
+[1198680.656163]  0000000000015780 0000000000015780 ffff88011ef38710 ffff88011ef38a08
+[1198680.656173] Call Trace:
+[1198680.656223]  [<ffffffffa0038f61>] ? scsi_host_alloc_command+0x12/0x56 [scsi_mod]
+[1198680.656246]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1198680.656269]  [<ffffffffa003eb08>] ? scsi_setup_blk_pc_cmnd+0x39/0xfc [scsi_mod]
+[1198680.656283]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1198680.656296]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1198680.656306]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1198680.656319]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198680.656329]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1198680.656338]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1198680.656348]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1198680.656369]  [<ffffffffa003f3c6>] ? scsi_execute+0xdc/0x12f [scsi_mod]
+[1198680.656389]  [<ffffffffa003f459>] ? scsi_execute_req+0x40/0xb9 [scsi_mod]
+[1198680.656409]  [<ffffffffa003f4a0>] ? scsi_execute_req+0x87/0xb9 [scsi_mod]
+[1198680.656424]  [<ffffffffa00cb246>] ? sr_test_unit_ready+0x5d/0xc0 [sr_mod]
+[1198680.656439]  [<ffffffffa00cb4ce>] ? sr_media_change+0x46/0x27a [sr_mod]
+[1198680.656452]  [<ffffffffa00cb4dd>] ? sr_media_change+0x55/0x27a [sr_mod]
+[1198680.656464]  [<ffffffff81067ccf>] ? hrtimer_cancel+0xc/0x16
+[1198680.656474]  [<ffffffff812fc4bf>] ? schedule_hrtimeout_range+0xd5/0x112
+[1198680.656489]  [<ffffffffa00c1074>] ? media_changed+0x42/0x74 [cdrom]
+[1198680.656507]  [<ffffffff8111205a>] ? check_disk_change+0x22/0x53
+[1198680.656522]  [<ffffffffa00c5808>] ? cdrom_open+0x8d2/0x962 [cdrom]
+[1198680.656533]  [<ffffffff810fc31e>] ? do_sys_poll+0x316/0x391
+[1198680.656543]  [<ffffffff810fcfa5>] ? __pollwait+0x0/0xd6
+[1198680.656553]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1198680.656562]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1198680.656571]  [<ffffffff811845d8>] ? get_disk+0x49/0xb4
+[1198680.656581]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1198680.656590]  [<ffffffff81184624>] ? get_disk+0x95/0xb4
+[1198680.656602]  [<ffffffff8122317c>] ? kobj_lookup+0x169/0x1a1
+[1198680.656610]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1198680.656624]  [<ffffffffa00cb464>] ? sr_block_open+0x86/0x9f [sr_mod]
+[1198680.656633]  [<ffffffff81112efd>] ? __blkdev_get+0x258/0x342
+[1198680.656642]  [<ffffffff81112fee>] ? blkdev_open+0x0/0x96
+[1198680.656650]  [<ffffffff81113055>] ? blkdev_open+0x67/0x96
+[1198680.656660]  [<ffffffff810ed976>] ? __dentry_open+0x19d/0x2bf
+[1198680.656670]  [<ffffffff810f91d7>] ? do_filp_open+0x4e4/0x94b
+[1198680.656680]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1198680.656691]  [<ffffffff810e4ce3>] ? get_partial_node+0x15/0x85
+[1198680.656703]  [<ffffffff810168f3>] ? read_tsc+0xa/0x20
+[1198680.656712]  [<ffffffff810e4c87>] ? add_partial+0x11/0x58
+[1198680.656722]  [<ffffffff811021f9>] ? alloc_fd+0x67/0x10c
+[1198680.656731]  [<ffffffff810ed707>] ? do_sys_open+0x55/0xfc
+[1198680.656740]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1198680.656778] INFO: task wodim:10808 blocked for more than 120 seconds.
+[1198680.656784] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1198680.656792] wodim         D 0000000000000002     0 10808  10203 0x00000000
+[1198680.656804]  ffff88012b769c40 0000000000000082 0000000000000020 0000000000000092
+[1198680.656815]  0000000000000092 ffffffffa00392de 000000000000f9e0 ffff880115229fd8
+[1198680.656826]  0000000000015780 0000000000015780 ffff88005a4e2a60 ffff88005a4e2d58
+[1198680.656836] Call Trace:
+[1198680.656857]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1198680.656872]  [<ffffffffa00cbbf4>] ? sr_prep_fn+0x2c/0x4c0 [sr_mod]
+[1198680.656882]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1198680.656892]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1198680.656913]  [<ffffffffa003e3a9>] ? scsi_request_fn+0x41b/0x4f8 [scsi_mod]
+[1198680.656923]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1198680.656934]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198680.656943]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1198680.656953]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1198680.656962]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1198680.656971]  [<ffffffff810563c2>] ? capable+0x22/0x41
+[1198680.656980]  [<ffffffff81185a2f>] ? sg_io+0x2a2/0x3d7
+[1198680.656988]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1198680.656998]  [<ffffffff8118578f>] ? sg_io+0x2/0x3d7
+[1198680.657007]  [<ffffffff81186063>] ? scsi_cmd_ioctl+0x217/0x3f2
+[1198680.657017]  [<ffffffff810b5dcb>] ? mempool_free_slab+0x0/0xe
+[1198680.657027]  [<ffffffff81016872>] ? native_sched_clock+0x2e/0x78
+[1198680.657037]  [<ffffffff810168c1>] ? sched_clock+0x5/0x8
+[1198680.657051]  [<ffffffffa00c3f46>] ? cdrom_ioctl+0x3e/0xeec [cdrom]
+[1198680.657062]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1198680.657071]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1198680.657081]  [<ffffffff810fd0ce>] ? pollwake+0x53/0x59
+[1198680.657091]  [<ffffffff81052331>] ? current_fs_time+0x1e/0x24
+[1198680.657101]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198680.657115]  [<ffffffffa00cb33c>] ? sr_block_ioctl+0x49/0x85 [sr_mod]
+[1198680.657125]  [<ffffffff81183995>] ? __blkdev_driver_ioctl+0x69/0x7e
+[1198680.657134]  [<ffffffff81184190>] ? blkdev_ioctl+0x7e6/0x836
+[1198680.657144]  [<ffffffff810eef4e>] ? do_sync_write+0xce/0x113
+[1198680.657155]  [<ffffffff8100f6c4>] ? __switch_to+0x1ad/0x297
+[1198680.657164]  [<ffffffff81065046>] ? autoremove_wake_function+0x0/0x2e
+[1198680.657175]  [<ffffffff81111e36>] ? block_ioctl+0x38/0x3c
+[1198680.657184]  [<ffffffff810faec2>] ? vfs_ioctl+0x21/0x6c
+[1198680.657193]  [<ffffffff810fb410>] ? do_vfs_ioctl+0x48d/0x4cb
+[1198680.657203]  [<ffffffff810ef8c4>] ? vfs_write+0xcd/0x102
+[1198680.657212]  [<ffffffff810fb49f>] ? sys_ioctl+0x51/0x70
+[1198680.657221]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1198800.656106] INFO: task udisks-daemon:3537 blocked for more than 120 seconds.
+[1198800.656117] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1198800.656127] udisks-daemon D 0000000000000002     0  3537   3536 0x00000000
+[1198800.656140]  ffff88012faac6a0 0000000000000082 0000000000000020 ffff88012b6db000
+[1198800.656152]  ffff88012b6db000 ffffffffa0038f61 000000000000f9e0 ffff88011ef59fd8
+[1198800.656163]  0000000000015780 0000000000015780 ffff88011ef38710 ffff88011ef38a08
+[1198800.656173] Call Trace:
+[1198800.656222]  [<ffffffffa0038f61>] ? scsi_host_alloc_command+0x12/0x56 [scsi_mod]
+[1198800.656246]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1198800.656269]  [<ffffffffa003eb08>] ? scsi_setup_blk_pc_cmnd+0x39/0xfc [scsi_mod]
+[1198800.656284]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1198800.656296]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1198800.656306]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1198800.656320]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198800.656330]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1198800.656340]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1198800.656349]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1198800.656370]  [<ffffffffa003f3c6>] ? scsi_execute+0xdc/0x12f [scsi_mod]
+[1198800.656390]  [<ffffffffa003f459>] ? scsi_execute_req+0x40/0xb9 [scsi_mod]
+[1198800.656410]  [<ffffffffa003f4a0>] ? scsi_execute_req+0x87/0xb9 [scsi_mod]
+[1198800.656425]  [<ffffffffa00cb246>] ? sr_test_unit_ready+0x5d/0xc0 [sr_mod]
+[1198800.656439]  [<ffffffffa00cb4ce>] ? sr_media_change+0x46/0x27a [sr_mod]
+[1198800.656453]  [<ffffffffa00cb4dd>] ? sr_media_change+0x55/0x27a [sr_mod]
+[1198800.656465]  [<ffffffff81067ccf>] ? hrtimer_cancel+0xc/0x16
+[1198800.656475]  [<ffffffff812fc4bf>] ? schedule_hrtimeout_range+0xd5/0x112
+[1198800.656490]  [<ffffffffa00c1074>] ? media_changed+0x42/0x74 [cdrom]
+[1198800.656504]  [<ffffffff8111205a>] ? check_disk_change+0x22/0x53
+[1198800.656518]  [<ffffffffa00c5808>] ? cdrom_open+0x8d2/0x962 [cdrom]
+[1198800.656530]  [<ffffffff810fc31e>] ? do_sys_poll+0x316/0x391
+[1198800.656540]  [<ffffffff810fcfa5>] ? __pollwait+0x0/0xd6
+[1198800.656550]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1198800.656559]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1198800.656568]  [<ffffffff811845d8>] ? get_disk+0x49/0xb4
+[1198800.656578]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1198800.656586]  [<ffffffff81184624>] ? get_disk+0x95/0xb4
+[1198800.656598]  [<ffffffff8122317c>] ? kobj_lookup+0x169/0x1a1
+[1198800.656606]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1198800.656620]  [<ffffffffa00cb464>] ? sr_block_open+0x86/0x9f [sr_mod]
+[1198800.656629]  [<ffffffff81112efd>] ? __blkdev_get+0x258/0x342
+[1198800.656638]  [<ffffffff81112fee>] ? blkdev_open+0x0/0x96
+[1198800.656646]  [<ffffffff81113055>] ? blkdev_open+0x67/0x96
+[1198800.656656]  [<ffffffff810ed976>] ? __dentry_open+0x19d/0x2bf
+[1198800.656666]  [<ffffffff810f91d7>] ? do_filp_open+0x4e4/0x94b
+[1198800.656677]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1198800.656688]  [<ffffffff810e4ce3>] ? get_partial_node+0x15/0x85
+[1198800.656700]  [<ffffffff810168f3>] ? read_tsc+0xa/0x20
+[1198800.656709]  [<ffffffff810e4c87>] ? add_partial+0x11/0x58
+[1198800.656719]  [<ffffffff811021f9>] ? alloc_fd+0x67/0x10c
+[1198800.656728]  [<ffffffff810ed707>] ? do_sys_open+0x55/0xfc
+[1198800.656737]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1198800.656775] INFO: task wodim:10808 blocked for more than 120 seconds.
+[1198800.656782] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1198800.656790] wodim         D 0000000000000002     0 10808  10203 0x00000000
+[1198800.656801]  ffff88012b769c40 0000000000000082 0000000000000020 0000000000000092
+[1198800.656812]  0000000000000092 ffffffffa00392de 000000000000f9e0 ffff880115229fd8
+[1198800.656823]  0000000000015780 0000000000015780 ffff88005a4e2a60 ffff88005a4e2d58
+[1198800.656834] Call Trace:
+[1198800.656854]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1198800.656869]  [<ffffffffa00cbbf4>] ? sr_prep_fn+0x2c/0x4c0 [sr_mod]
+[1198800.656879]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1198800.656889]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1198800.656909]  [<ffffffffa003e3a9>] ? scsi_request_fn+0x41b/0x4f8 [scsi_mod]
+[1198800.656920]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1198800.656930]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198800.656940]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1198800.656949]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1198800.656958]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1198800.656967]  [<ffffffff810563c2>] ? capable+0x22/0x41
+[1198800.656976]  [<ffffffff81185a2f>] ? sg_io+0x2a2/0x3d7
+[1198800.656985]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1198800.656994]  [<ffffffff8118578f>] ? sg_io+0x2/0x3d7
+[1198800.657003]  [<ffffffff81186063>] ? scsi_cmd_ioctl+0x217/0x3f2
+[1198800.657013]  [<ffffffff810b5dcb>] ? mempool_free_slab+0x0/0xe
+[1198800.657023]  [<ffffffff81016872>] ? native_sched_clock+0x2e/0x78
+[1198800.657033]  [<ffffffff810168c1>] ? sched_clock+0x5/0x8
+[1198800.657047]  [<ffffffffa00c3f46>] ? cdrom_ioctl+0x3e/0xeec [cdrom]
+[1198800.657058]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1198800.657067]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1198800.657077]  [<ffffffff810fd0ce>] ? pollwake+0x53/0x59
+[1198800.657086]  [<ffffffff81052331>] ? current_fs_time+0x1e/0x24
+[1198800.657097]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198800.657111]  [<ffffffffa00cb33c>] ? sr_block_ioctl+0x49/0x85 [sr_mod]
+[1198800.657120]  [<ffffffff81183995>] ? __blkdev_driver_ioctl+0x69/0x7e
+[1198800.657129]  [<ffffffff81184190>] ? blkdev_ioctl+0x7e6/0x836
+[1198800.657140]  [<ffffffff810eef4e>] ? do_sync_write+0xce/0x113
+[1198800.657150]  [<ffffffff8100f6c4>] ? __switch_to+0x1ad/0x297
+[1198800.657160]  [<ffffffff81065046>] ? autoremove_wake_function+0x0/0x2e
+[1198800.657170]  [<ffffffff81111e36>] ? block_ioctl+0x38/0x3c
+[1198800.657180]  [<ffffffff810faec2>] ? vfs_ioctl+0x21/0x6c
+[1198800.657189]  [<ffffffff810fb410>] ? do_vfs_ioctl+0x48d/0x4cb
+[1198800.657198]  [<ffffffff810ef8c4>] ? vfs_write+0xcd/0x102
+[1198800.657208]  [<ffffffff810fb49f>] ? sys_ioctl+0x51/0x70
+[1198800.657216]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1198920.656073] INFO: task udisks-daemon:3537 blocked for more than 120 seconds.
+[1198920.656078] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1198920.656080] udisks-daemon D 0000000000000002     0  3537   3536 0x00000000
+[1198920.656085]  ffff88012faac6a0 0000000000000082 0000000000000020 ffff88012b6db000
+[1198920.656088]  ffff88012b6db000 ffffffffa0038f61 000000000000f9e0 ffff88011ef59fd8
+[1198920.656091]  0000000000015780 0000000000015780 ffff88011ef38710 ffff88011ef38a08
+[1198920.656095] Call Trace:
+[1198920.656119]  [<ffffffffa0038f61>] ? scsi_host_alloc_command+0x12/0x56 [scsi_mod]
+[1198920.656126]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1198920.656132]  [<ffffffffa003eb08>] ? scsi_setup_blk_pc_cmnd+0x39/0xfc [scsi_mod]
+[1198920.656137]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1198920.656142]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1198920.656145]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1198920.656149]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198920.656153]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1198920.656155]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1198920.656158]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1198920.656164]  [<ffffffffa003f3c6>] ? scsi_execute+0xdc/0x12f [scsi_mod]
+[1198920.656169]  [<ffffffffa003f459>] ? scsi_execute_req+0x40/0xb9 [scsi_mod]
+[1198920.656175]  [<ffffffffa003f4a0>] ? scsi_execute_req+0x87/0xb9 [scsi_mod]
+[1198920.656180]  [<ffffffffa00cb246>] ? sr_test_unit_ready+0x5d/0xc0 [sr_mod]
+[1198920.656184]  [<ffffffffa00cb4ce>] ? sr_media_change+0x46/0x27a [sr_mod]
+[1198920.656188]  [<ffffffffa00cb4dd>] ? sr_media_change+0x55/0x27a [sr_mod]
+[1198920.656192]  [<ffffffff81067ccf>] ? hrtimer_cancel+0xc/0x16
+[1198920.656194]  [<ffffffff812fc4bf>] ? schedule_hrtimeout_range+0xd5/0x112
+[1198920.656199]  [<ffffffffa00c1074>] ? media_changed+0x42/0x74 [cdrom]
+[1198920.656204]  [<ffffffff8111205a>] ? check_disk_change+0x22/0x53
+[1198920.656208]  [<ffffffffa00c5808>] ? cdrom_open+0x8d2/0x962 [cdrom]
+[1198920.656211]  [<ffffffff810fc31e>] ? do_sys_poll+0x316/0x391
+[1198920.656214]  [<ffffffff810fcfa5>] ? __pollwait+0x0/0xd6
+[1198920.656217]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1198920.656220]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1198920.656222]  [<ffffffff811845d8>] ? get_disk+0x49/0xb4
+[1198920.656225]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1198920.656228]  [<ffffffff81184624>] ? get_disk+0x95/0xb4
+[1198920.656232]  [<ffffffff8122317c>] ? kobj_lookup+0x169/0x1a1
+[1198920.656234]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1198920.656238]  [<ffffffffa00cb464>] ? sr_block_open+0x86/0x9f [sr_mod]
+[1198920.656241]  [<ffffffff81112efd>] ? __blkdev_get+0x258/0x342
+[1198920.656243]  [<ffffffff81112fee>] ? blkdev_open+0x0/0x96
+[1198920.656246]  [<ffffffff81113055>] ? blkdev_open+0x67/0x96
+[1198920.656249]  [<ffffffff810ed976>] ? __dentry_open+0x19d/0x2bf
+[1198920.656252]  [<ffffffff810f91d7>] ? do_filp_open+0x4e4/0x94b
+[1198920.656255]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1198920.656258]  [<ffffffff810e4ce3>] ? get_partial_node+0x15/0x85
+[1198920.656262]  [<ffffffff810168f3>] ? read_tsc+0xa/0x20
+[1198920.656265]  [<ffffffff810e4c87>] ? add_partial+0x11/0x58
+[1198920.656268]  [<ffffffff811021f9>] ? alloc_fd+0x67/0x10c
+[1198920.656271]  [<ffffffff810ed707>] ? do_sys_open+0x55/0xfc
+[1198920.656273]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1198920.656294] INFO: task wodim:10808 blocked for more than 120 seconds.
+[1198920.656296] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1198920.656298] wodim         D 0000000000000002     0 10808  10203 0x00000000
+[1198920.656301]  ffff88012b769c40 0000000000000082 0000000000000020 0000000000000092
+[1198920.656304]  0000000000000092 ffffffffa00392de 000000000000f9e0 ffff880115229fd8
+[1198920.656307]  0000000000015780 0000000000015780 ffff88005a4e2a60 ffff88005a4e2d58
+[1198920.656310] Call Trace:
+[1198920.656316]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1198920.656320]  [<ffffffffa00cbbf4>] ? sr_prep_fn+0x2c/0x4c0 [sr_mod]
+[1198920.656323]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1198920.656325]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1198920.656331]  [<ffffffffa003e3a9>] ? scsi_request_fn+0x41b/0x4f8 [scsi_mod]
+[1198920.656334]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1198920.656337]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198920.656340]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1198920.656342]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1198920.656345]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1198920.656348]  [<ffffffff810563c2>] ? capable+0x22/0x41
+[1198920.656350]  [<ffffffff81185a2f>] ? sg_io+0x2a2/0x3d7
+[1198920.656353]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1198920.656355]  [<ffffffff8118578f>] ? sg_io+0x2/0x3d7
+[1198920.656358]  [<ffffffff81186063>] ? scsi_cmd_ioctl+0x217/0x3f2
+[1198920.656361]  [<ffffffff810b5dcb>] ? mempool_free_slab+0x0/0xe
+[1198920.656364]  [<ffffffff81016872>] ? native_sched_clock+0x2e/0x78
+[1198920.656366]  [<ffffffff810168c1>] ? sched_clock+0x5/0x8
+[1198920.656370]  [<ffffffffa00c3f46>] ? cdrom_ioctl+0x3e/0xeec [cdrom]
+[1198920.656373]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1198920.656376]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1198920.656379]  [<ffffffff810fd0ce>] ? pollwake+0x53/0x59
+[1198920.656382]  [<ffffffff81052331>] ? current_fs_time+0x1e/0x24
+[1198920.656384]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1198920.656388]  [<ffffffffa00cb33c>] ? sr_block_ioctl+0x49/0x85 [sr_mod]
+[1198920.656391]  [<ffffffff81183995>] ? __blkdev_driver_ioctl+0x69/0x7e
+[1198920.656394]  [<ffffffff81184190>] ? blkdev_ioctl+0x7e6/0x836
+[1198920.656397]  [<ffffffff810eef4e>] ? do_sync_write+0xce/0x113
+[1198920.656400]  [<ffffffff8100f6c4>] ? __switch_to+0x1ad/0x297
+[1198920.656403]  [<ffffffff81065046>] ? autoremove_wake_function+0x0/0x2e
+[1198920.656406]  [<ffffffff81111e36>] ? block_ioctl+0x38/0x3c
+[1198920.656409]  [<ffffffff810faec2>] ? vfs_ioctl+0x21/0x6c
+[1198920.656411]  [<ffffffff810fb410>] ? do_vfs_ioctl+0x48d/0x4cb
+[1198920.656414]  [<ffffffff810ef8c4>] ? vfs_write+0xcd/0x102
+[1198920.656416]  [<ffffffff810fb49f>] ? sys_ioctl+0x51/0x70
+[1198920.656419]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1199040.656521] INFO: task udisks-daemon:3537 blocked for more than 120 seconds.
+[1199040.656528] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1199040.656532] udisks-daemon D 0000000000000002     0  3537   3536 0x00000000
+[1199040.656540]  ffff88012faac6a0 0000000000000082 0000000000000020 ffff88012b6db000
+[1199040.656546]  ffff88012b6db000 ffffffffa0038f61 000000000000f9e0 ffff88011ef59fd8
+[1199040.656551]  0000000000015780 0000000000015780 ffff88011ef38710 ffff88011ef38a08
+[1199040.656556] Call Trace:
+[1199040.656590]  [<ffffffffa0038f61>] ? scsi_host_alloc_command+0x12/0x56 [scsi_mod]
+[1199040.656602]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1199040.656612]  [<ffffffffa003eb08>] ? scsi_setup_blk_pc_cmnd+0x39/0xfc [scsi_mod]
+[1199040.656620]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1199040.656627]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1199040.656632]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1199040.656639]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1199040.656645]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1199040.656649]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1199040.656654]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1199040.656664]  [<ffffffffa003f3c6>] ? scsi_execute+0xdc/0x12f [scsi_mod]
+[1199040.656673]  [<ffffffffa003f459>] ? scsi_execute_req+0x40/0xb9 [scsi_mod]
+[1199040.656683]  [<ffffffffa003f4a0>] ? scsi_execute_req+0x87/0xb9 [scsi_mod]
+[1199040.656690]  [<ffffffffa00cb246>] ? sr_test_unit_ready+0x5d/0xc0 [sr_mod]
+[1199040.656697]  [<ffffffffa00cb4ce>] ? sr_media_change+0x46/0x27a [sr_mod]
+[1199040.656703]  [<ffffffffa00cb4dd>] ? sr_media_change+0x55/0x27a [sr_mod]
+[1199040.656709]  [<ffffffff81067ccf>] ? hrtimer_cancel+0xc/0x16
+[1199040.656714]  [<ffffffff812fc4bf>] ? schedule_hrtimeout_range+0xd5/0x112
+[1199040.656721]  [<ffffffffa00c1074>] ? media_changed+0x42/0x74 [cdrom]
+[1199040.656729]  [<ffffffff8111205a>] ? check_disk_change+0x22/0x53
+[1199040.656735]  [<ffffffffa00c5808>] ? cdrom_open+0x8d2/0x962 [cdrom]
+[1199040.656742]  [<ffffffff810fc31e>] ? do_sys_poll+0x316/0x391
+[1199040.656746]  [<ffffffff810fcfa5>] ? __pollwait+0x0/0xd6
+[1199040.656751]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1199040.656755]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1199040.656760]  [<ffffffff811845d8>] ? get_disk+0x49/0xb4
+[1199040.656765]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1199040.656769]  [<ffffffff81184624>] ? get_disk+0x95/0xb4
+[1199040.656775]  [<ffffffff8122317c>] ? kobj_lookup+0x169/0x1a1
+[1199040.656779]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1199040.656786]  [<ffffffffa00cb464>] ? sr_block_open+0x86/0x9f [sr_mod]
+[1199040.656794]  [<ffffffff81112efd>] ? __blkdev_get+0x258/0x342
+[1199040.656798]  [<ffffffff81112fee>] ? blkdev_open+0x0/0x96
+[1199040.656802]  [<ffffffff81113055>] ? blkdev_open+0x67/0x96
+[1199040.656807]  [<ffffffff810ed976>] ? __dentry_open+0x19d/0x2bf
+[1199040.656812]  [<ffffffff810f91d7>] ? do_filp_open+0x4e4/0x94b
+[1199040.656817]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1199040.656823]  [<ffffffff810e4ce3>] ? get_partial_node+0x15/0x85
+[1199040.656829]  [<ffffffff810168f3>] ? read_tsc+0xa/0x20
+[1199040.656833]  [<ffffffff810e4c87>] ? add_partial+0x11/0x58
+[1199040.656838]  [<ffffffff811021f9>] ? alloc_fd+0x67/0x10c
+[1199040.656842]  [<ffffffff810ed707>] ? do_sys_open+0x55/0xfc
+[1199040.656847]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1199040.656871] INFO: task wodim:10808 blocked for more than 120 seconds.
+[1199040.656874] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1199040.656878] wodim         D 0000000000000002     0 10808  10203 0x00000000
+[1199040.656884]  ffff88012b769c40 0000000000000082 0000000000000020 0000000000000092
+[1199040.656889]  0000000000000092 ffffffffa00392de 000000000000f9e0 ffff880115229fd8
+[1199040.656894]  0000000000015780 0000000000015780 ffff88005a4e2a60 ffff88005a4e2d58
+[1199040.656899] Call Trace:
+[1199040.656909]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1199040.656916]  [<ffffffffa00cbbf4>] ? sr_prep_fn+0x2c/0x4c0 [sr_mod]
+[1199040.656920]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1199040.656925]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1199040.656935]  [<ffffffffa003e3a9>] ? scsi_request_fn+0x41b/0x4f8 [scsi_mod]
+[1199040.656940]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1199040.656945]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1199040.656949]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1199040.656954]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1199040.656958]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1199040.656963]  [<ffffffff810563c2>] ? capable+0x22/0x41
+[1199040.656967]  [<ffffffff81185a2f>] ? sg_io+0x2a2/0x3d7
+[1199040.656971]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1199040.656975]  [<ffffffff8118578f>] ? sg_io+0x2/0x3d7
+[1199040.656980]  [<ffffffff81186063>] ? scsi_cmd_ioctl+0x217/0x3f2
+[1199040.656985]  [<ffffffff810b5dcb>] ? mempool_free_slab+0x0/0xe
+[1199040.656989]  [<ffffffff81016872>] ? native_sched_clock+0x2e/0x78
+[1199040.656994]  [<ffffffff810168c1>] ? sched_clock+0x5/0x8
+[1199040.657001]  [<ffffffffa00c3f46>] ? cdrom_ioctl+0x3e/0xeec [cdrom]
+[1199040.657006]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1199040.657010]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1199040.657015]  [<ffffffff810fd0ce>] ? pollwake+0x53/0x59
+[1199040.657020]  [<ffffffff81052331>] ? current_fs_time+0x1e/0x24
+[1199040.657025]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1199040.657031]  [<ffffffffa00cb33c>] ? sr_block_ioctl+0x49/0x85 [sr_mod]
+[1199040.657036]  [<ffffffff81183995>] ? __blkdev_driver_ioctl+0x69/0x7e
+[1199040.657040]  [<ffffffff81184190>] ? blkdev_ioctl+0x7e6/0x836
+[1199040.657045]  [<ffffffff810eef4e>] ? do_sync_write+0xce/0x113
+[1199040.657051]  [<ffffffff8100f6c4>] ? __switch_to+0x1ad/0x297
+[1199040.657055]  [<ffffffff81065046>] ? autoremove_wake_function+0x0/0x2e
+[1199040.657060]  [<ffffffff81111e36>] ? block_ioctl+0x38/0x3c
+[1199040.657065]  [<ffffffff810faec2>] ? vfs_ioctl+0x21/0x6c
+[1199040.657069]  [<ffffffff810fb410>] ? do_vfs_ioctl+0x48d/0x4cb
+[1199040.657073]  [<ffffffff810ef8c4>] ? vfs_write+0xcd/0x102
+[1199040.657078]  [<ffffffff810fb49f>] ? sys_ioctl+0x51/0x70
+[1199040.657082]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1199160.656083] INFO: task udisks-daemon:3537 blocked for more than 120 seconds.
+[1199160.656095] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1199160.656104] udisks-daemon D 0000000000000002     0  3537   3536 0x00000000
+[1199160.656117]  ffff88012faac6a0 0000000000000082 0000000000000020 ffff88012b6db000
+[1199160.656129]  ffff88012b6db000 ffffffffa0038f61 000000000000f9e0 ffff88011ef59fd8
+[1199160.656140]  0000000000015780 0000000000015780 ffff88011ef38710 ffff88011ef38a08
+[1199160.656151] Call Trace:
+[1199160.656200]  [<ffffffffa0038f61>] ? scsi_host_alloc_command+0x12/0x56 [scsi_mod]
+[1199160.656224]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1199160.656247]  [<ffffffffa003eb08>] ? scsi_setup_blk_pc_cmnd+0x39/0xfc [scsi_mod]
+[1199160.656261]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1199160.656275]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1199160.656285]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1199160.656298]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1199160.656308]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1199160.656318]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1199160.656327]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1199160.656349]  [<ffffffffa003f3c6>] ? scsi_execute+0xdc/0x12f [scsi_mod]
+[1199160.656369]  [<ffffffffa003f459>] ? scsi_execute_req+0x40/0xb9 [scsi_mod]
+[1199160.656389]  [<ffffffffa003f4a0>] ? scsi_execute_req+0x87/0xb9 [scsi_mod]
+[1199160.656404]  [<ffffffffa00cb246>] ? sr_test_unit_ready+0x5d/0xc0 [sr_mod]
+[1199160.656418]  [<ffffffffa00cb4ce>] ? sr_media_change+0x46/0x27a [sr_mod]
+[1199160.656432]  [<ffffffffa00cb4dd>] ? sr_media_change+0x55/0x27a [sr_mod]
+[1199160.656444]  [<ffffffff81067ccf>] ? hrtimer_cancel+0xc/0x16
+[1199160.656454]  [<ffffffff812fc4bf>] ? schedule_hrtimeout_range+0xd5/0x112
+[1199160.656469]  [<ffffffffa00c1074>] ? media_changed+0x42/0x74 [cdrom]
+[1199160.656483]  [<ffffffff8111205a>] ? check_disk_change+0x22/0x53
+[1199160.656498]  [<ffffffffa00c5808>] ? cdrom_open+0x8d2/0x962 [cdrom]
+[1199160.656510]  [<ffffffff810fc31e>] ? do_sys_poll+0x316/0x391
+[1199160.656520]  [<ffffffff810fcfa5>] ? __pollwait+0x0/0xd6
+[1199160.656530]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1199160.656539]  [<ffffffff810fd07b>] ? pollwake+0x0/0x59
+[1199160.656548]  [<ffffffff811845d8>] ? get_disk+0x49/0xb4
+[1199160.656558]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1199160.656566]  [<ffffffff81184624>] ? get_disk+0x95/0xb4
+[1199160.656578]  [<ffffffff8122317c>] ? kobj_lookup+0x169/0x1a1
+[1199160.656587]  [<ffffffff8118fb3b>] ? kobject_get+0x12/0x17
+[1199160.656600]  [<ffffffffa00cb464>] ? sr_block_open+0x86/0x9f [sr_mod]
+[1199160.656610]  [<ffffffff81112efd>] ? __blkdev_get+0x258/0x342
+[1199160.656618]  [<ffffffff81112fee>] ? blkdev_open+0x0/0x96
+[1199160.656626]  [<ffffffff81113055>] ? blkdev_open+0x67/0x96
+[1199160.656636]  [<ffffffff810ed976>] ? __dentry_open+0x19d/0x2bf
+[1199160.656647]  [<ffffffff810f91d7>] ? do_filp_open+0x4e4/0x94b
+[1199160.656657]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1199160.656669]  [<ffffffff810e4ce3>] ? get_partial_node+0x15/0x85
+[1199160.656680]  [<ffffffff810168f3>] ? read_tsc+0xa/0x20
+[1199160.656690]  [<ffffffff810e4c87>] ? add_partial+0x11/0x58
+[1199160.656700]  [<ffffffff811021f9>] ? alloc_fd+0x67/0x10c
+[1199160.656709]  [<ffffffff810ed707>] ? do_sys_open+0x55/0xfc
+[1199160.656718]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1199160.656756] INFO: task wodim:10808 blocked for more than 120 seconds.
+[1199160.656763] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[1199160.656771] wodim         D 0000000000000002     0 10808  10203 0x00000000
+[1199160.656782]  ffff88012b769c40 0000000000000082 0000000000000020 0000000000000092
+[1199160.656793]  0000000000000092 ffffffffa00392de 000000000000f9e0 ffff880115229fd8
+[1199160.656804]  0000000000015780 0000000000015780 ffff88005a4e2a60 ffff88005a4e2d58
+[1199160.656814] Call Trace:
+[1199160.656834]  [<ffffffffa00392de>] ? scsi_get_command+0x75/0x97 [scsi_mod]
+[1199160.656849]  [<ffffffffa00cbbf4>] ? sr_prep_fn+0x2c/0x4c0 [sr_mod]
+[1199160.656859]  [<ffffffff812fbe4d>] ? schedule_timeout+0x2e/0xdd
+[1199160.656869]  [<ffffffff8117eb5c>] ? blk_peek_request+0xd9/0x1ad
+[1199160.656890]  [<ffffffffa003e3a9>] ? scsi_request_fn+0x41b/0x4f8 [scsi_mod]
+[1199160.656900]  [<ffffffff812fbd04>] ? wait_for_common+0xde/0x15b
+[1199160.656911]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1199160.656921]  [<ffffffff8118278d>] ? blk_execute_rq+0x9d/0xd0
+[1199160.656930]  [<ffffffff8117e713>] ? __freed_request+0x26/0x82
+[1199160.656940]  [<ffffffff8117e792>] ? freed_request+0x23/0x41
+[1199160.656949]  [<ffffffff810563c2>] ? capable+0x22/0x41
+[1199160.656957]  [<ffffffff81185a2f>] ? sg_io+0x2a2/0x3d7
+[1199160.656966]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1199160.656976]  [<ffffffff8118578f>] ? sg_io+0x2/0x3d7
+[1199160.656984]  [<ffffffff81186063>] ? scsi_cmd_ioctl+0x217/0x3f2
+[1199160.656995]  [<ffffffff810b5dcb>] ? mempool_free_slab+0x0/0xe
+[1199160.657005]  [<ffffffff81016872>] ? native_sched_clock+0x2e/0x78
+[1199160.657015]  [<ffffffff810168c1>] ? sched_clock+0x5/0x8
+[1199160.657029]  [<ffffffffa00c3f46>] ? cdrom_ioctl+0x3e/0xeec [cdrom]
+[1199160.657040]  [<ffffffff8104a44f>] ? try_to_wake_up+0x289/0x29b
+[1199160.657048]  [<ffffffff8101166e>] ? apic_timer_interrupt+0xe/0x20
+[1199160.657059]  [<ffffffff810fd0ce>] ? pollwake+0x53/0x59
+[1199160.657068]  [<ffffffff81052331>] ? current_fs_time+0x1e/0x24
+[1199160.657079]  [<ffffffff8104a461>] ? default_wake_function+0x0/0x9
+[1199160.657093]  [<ffffffffa00cb33c>] ? sr_block_ioctl+0x49/0x85 [sr_mod]
+[1199160.657102]  [<ffffffff81183995>] ? __blkdev_driver_ioctl+0x69/0x7e
+[1199160.657112]  [<ffffffff81184190>] ? blkdev_ioctl+0x7e6/0x836
+[1199160.657122]  [<ffffffff810eef4e>] ? do_sync_write+0xce/0x113
+[1199160.657133]  [<ffffffff8100f6c4>] ? __switch_to+0x1ad/0x297
+[1199160.657142]  [<ffffffff81065046>] ? autoremove_wake_function+0x0/0x2e
+[1199160.657153]  [<ffffffff81111e36>] ? block_ioctl+0x38/0x3c
+[1199160.657162]  [<ffffffff810faec2>] ? vfs_ioctl+0x21/0x6c
+[1199160.657172]  [<ffffffff810fb410>] ? do_vfs_ioctl+0x48d/0x4cb
+[1199160.657181]  [<ffffffff810ef8c4>] ? vfs_write+0xcd/0x102
+[1199160.657190]  [<ffffffff810fb49f>] ? sys_ioctl+0x51/0x70
+[1199160.657199]  [<ffffffff81010b42>] ? system_call_fastpath+0x16/0x1b
+[1199544.804613] ata7.01: exception Emask 0x0 SAct 0x0 SErr 0x0 action 0x6 frozen
+[1199544.804629] sr 6:0:1:0: [sr0] CDB: Close track/session: 5b 00 05 00 00 00 00 00 00 00
+[1199544.804659] ata7.01: cmd a0/00:00:00:00:00/00:00:00:00:00/b0 tag 0
+[1199544.804665]          res 40/00:02:00:0c:00/00:00:00:00:00/b0 Emask 0x4 (timeout)
+[1199544.804675] ata7.01: status: { DRDY }
+[1199549.848570] ata7: link is slow to respond, please be patient (ready=0)
+[1199554.852060] ata7: device not ready (errno=-16), forcing hardreset
+[1199554.852075] ata7: soft resetting link
+[1199555.028481] ata7: nv_mode_filter: 0x739f&0x739f->0x739f, BIOS=0x7000 (0xc00000) ACPI=0x701f (600:60:0x1c)
+[1199555.044886] ata7.01: configured for UDMA/33
+[1199555.047243] ata7: EH complete
+[1204044.600078] eth0: link down.
+[1207197.180091] usb 2-4: new high speed USB device using ehci_hcd and address 12
+[1207197.326511] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1207197.326522] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1207197.326532] usb 2-4: Product: Android Phone
+[1207197.326538] usb 2-4: Manufacturer: HTC
+[1207197.326543] usb 2-4: SerialNumber: SH16FRT02092
+[1207197.326773] usb 2-4: configuration #1 chosen from 1 choice
+[1207197.329771] scsi17 : SCSI emulation for USB Mass Storage devices
+[1207197.329964] usb-storage: device found at 12
+[1207197.329970] usb-storage: waiting for device to settle before scanning
+[1207202.330267] usb-storage: device scan complete
+[1207202.333062] scsi 17:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1207202.334973] sd 17:0:0:0: Attached scsi generic sg3 type 0
+[1207202.343544] sd 17:0:0:0: [sdc] Attached SCSI removable disk
+[1208757.628385] usb 2-4: USB disconnect, address 12
+[1213985.656573] usb 2-4: new high speed USB device using ehci_hcd and address 13
+[1213985.802660] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1213985.802672] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1213985.802681] usb 2-4: Product: Android Phone
+[1213985.802687] usb 2-4: Manufacturer: HTC
+[1213985.802692] usb 2-4: SerialNumber: SH16FRT02092
+[1213985.802919] usb 2-4: configuration #1 chosen from 1 choice
+[1213985.805012] scsi18 : SCSI emulation for USB Mass Storage devices
+[1213985.806074] usb-storage: device found at 13
+[1213985.806081] usb-storage: waiting for device to settle before scanning
+[1213990.805795] usb-storage: device scan complete
+[1213990.807851] scsi 18:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1213990.809456] sd 18:0:0:0: Attached scsi generic sg3 type 0
+[1213990.821439] sd 18:0:0:0: [sdc] Attached SCSI removable disk
+[1214131.547484] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1214132.363860] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1214208.933784] eth0: link up.
+[1214528.421919] usb 2-4: USB disconnect, address 13
+[1214552.372601] usb 2-4: new high speed USB device using ehci_hcd and address 14
+[1214552.521519] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1214552.521531] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1214552.521540] usb 2-4: Product: Android Phone
+[1214552.521546] usb 2-4: Manufacturer: HTC
+[1214552.521551] usb 2-4: SerialNumber: SH16FRT02092
+[1214552.521784] usb 2-4: configuration #1 chosen from 1 choice
+[1214552.524886] scsi19 : SCSI emulation for USB Mass Storage devices
+[1214552.526590] usb-storage: device found at 14
+[1214552.526599] usb-storage: waiting for device to settle before scanning
+[1214557.529269] usb-storage: device scan complete
+[1214557.532252] scsi 19:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1214557.533954] sd 19:0:0:0: Attached scsi generic sg3 type 0
+[1214557.545667] sd 19:0:0:0: [sdc] Attached SCSI removable disk
+[1216453.410103] usb 2-4: USB disconnect, address 14
+[1217859.440090] usb 2-4: new high speed USB device using ehci_hcd and address 15
+[1217859.586147] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1217859.586159] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1217859.586168] usb 2-4: Product: Android Phone
+[1217859.586174] usb 2-4: Manufacturer: HTC
+[1217859.586179] usb 2-4: SerialNumber: SH16FRT02092
+[1217859.586407] usb 2-4: configuration #1 chosen from 1 choice
+[1217859.589401] scsi20 : SCSI emulation for USB Mass Storage devices
+[1217859.589687] usb-storage: device found at 15
+[1217859.589693] usb-storage: waiting for device to settle before scanning
+[1217864.589280] usb-storage: device scan complete
+[1217864.591337] scsi 20:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1217864.594011] sd 20:0:0:0: Attached scsi generic sg3 type 0
+[1217864.609963] sd 20:0:0:0: [sdc] Attached SCSI removable disk
+[1219910.179498] usb 2-4: USB disconnect, address 15
+[1294559.512583] usb 2-4: new high speed USB device using ehci_hcd and address 16
+[1294559.658002] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1294559.658014] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1294559.658023] usb 2-4: Product: Android Phone
+[1294559.658029] usb 2-4: Manufacturer: HTC
+[1294559.658034] usb 2-4: SerialNumber: SH16FRT02092
+[1294559.658258] usb 2-4: configuration #1 chosen from 1 choice
+[1294559.661234] scsi21 : SCSI emulation for USB Mass Storage devices
+[1294559.661523] usb-storage: device found at 16
+[1294559.661530] usb-storage: waiting for device to settle before scanning
+[1294564.661253] usb-storage: device scan complete
+[1294564.663174] scsi 21:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1294564.665693] sd 21:0:0:0: Attached scsi generic sg3 type 0
+[1294564.684044] sd 21:0:0:0: [sdc] Attached SCSI removable disk
+[1295052.639507] usb 2-4: USB disconnect, address 16
+[1297423.952585] usb 2-4: new high speed USB device using ehci_hcd and address 17
+[1297424.098388] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1297424.098400] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1297424.098409] usb 2-4: Product: Android Phone
+[1297424.098415] usb 2-4: Manufacturer: HTC
+[1297424.098420] usb 2-4: SerialNumber: SH16FRT02092
+[1297424.098642] usb 2-4: configuration #1 chosen from 1 choice
+[1297424.101663] scsi22 : SCSI emulation for USB Mass Storage devices
+[1297424.101953] usb-storage: device found at 17
+[1297424.101959] usb-storage: waiting for device to settle before scanning
+[1297429.101981] usb-storage: device scan complete
+[1297429.113078] scsi 22:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1297429.115961] sd 22:0:0:0: Attached scsi generic sg3 type 0
+[1297429.128808] sd 22:0:0:0: [sdc] Attached SCSI removable disk
+[1297679.630840] usb 2-4: USB disconnect, address 17
+[1299794.932166] usb 2-4: new high speed USB device using ehci_hcd and address 18
+[1299795.078339] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1299795.078351] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1299795.078360] usb 2-4: Product: Android Phone
+[1299795.078366] usb 2-4: Manufacturer: HTC
+[1299795.078371] usb 2-4: SerialNumber: SH16FRT02092
+[1299795.078603] usb 2-4: configuration #1 chosen from 1 choice
+[1299795.081140] scsi23 : SCSI emulation for USB Mass Storage devices
+[1299795.082216] usb-storage: device found at 18
+[1299795.082223] usb-storage: waiting for device to settle before scanning
+[1299800.081966] usb-storage: device scan complete
+[1299800.083884] scsi 23:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1299800.085293] sd 23:0:0:0: Attached scsi generic sg3 type 0
+[1299800.096671] sd 23:0:0:0: [sdc] Attached SCSI removable disk
+[1300448.625651] usb 2-4: USB disconnect, address 18
+[1301328.476073] usb 2-4: new high speed USB device using ehci_hcd and address 19
+[1301328.622049] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1301328.622060] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1301328.622069] usb 2-4: Product: Android Phone
+[1301328.622075] usb 2-4: Manufacturer: HTC
+[1301328.622081] usb 2-4: SerialNumber: SH16FRT02092
+[1301328.622322] usb 2-4: configuration #1 chosen from 1 choice
+[1301328.625282] scsi24 : SCSI emulation for USB Mass Storage devices
+[1301328.625577] usb-storage: device found at 19
+[1301328.625583] usb-storage: waiting for device to settle before scanning
+[1301333.625229] usb-storage: device scan complete
+[1301333.627239] scsi 24:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1301333.628941] sd 24:0:0:0: Attached scsi generic sg3 type 0
+[1301333.640822] sd 24:0:0:0: [sdc] Attached SCSI removable disk
+[1301849.463455] usb 2-4: USB disconnect, address 19
+[1306152.953605] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1306153.643543] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1376603.633180] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1376604.312048] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1408959.876544] TCP: Peer 149.241.18.185:56333/52006 unexpectedly shrunk window 1908690213:1908692501 (repaired)
+[1425200.493789] [drm] nouveau 0000:03:00.0: 0x1203: parsing clock script 0
+[1469812.846928] [drm] nouveau 0000:03:00.0: 0x1203: parsing clock script 0
+[1469841.385822] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1469842.060976] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1469846.615206] [drm] nouveau 0000:03:00.0: 0x1203: parsing clock script 0
+[1469865.343395] [drm] nouveau 0000:03:00.0: 0x1203: parsing clock script 0
+[1562798.538603] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1562799.213868] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1627686.752951] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1627687.430695] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1642806.716461] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1642807.389383] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1647482.116584] usb 1-4: new high speed USB device using ehci_hcd and address 4
+[1647482.251251] usb 1-4: New USB device found, idVendor=1516, idProduct=1213
+[1647482.251263] usb 1-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1647482.251273] usb 1-4: Product: DISK 2.0
+[1647482.251278] usb 1-4: Manufacturer: USB
+[1647482.251284] usb 1-4: SerialNumber: 003FF111121142247796B123
+[1647482.251512] usb 1-4: configuration #1 chosen from 1 choice
+[1647482.252519] scsi25 : SCSI emulation for USB Mass Storage devices
+[1647482.252685] usb-storage: device found at 4
+[1647482.252691] usb-storage: waiting for device to settle before scanning
+[1647487.252330] usb-storage: device scan complete
+[1647487.254167] scsi 25:0:0:0: Direct-Access     USB      DISK 2.0         1.00 PQ: 0 ANSI: 2
+[1647487.254665] sd 25:0:0:0: Attached scsi generic sg3 type 0
+[1647487.255498] sd 25:0:0:0: [sdc] 8017920 512-byte logical blocks: (4.10 GB/3.82 GiB)
+[1647487.257004] sd 25:0:0:0: [sdc] Write Protect is off
+[1647487.257008] sd 25:0:0:0: [sdc] Mode Sense: 23 00 00 00
+[1647487.257011] sd 25:0:0:0: [sdc] Assuming drive cache: write through
+[1647487.260099] sd 25:0:0:0: [sdc] Assuming drive cache: write through
+[1647487.260107]  sdc: sdc1
+[1647488.523046] sd 25:0:0:0: [sdc] Assuming drive cache: write through
+[1647488.523060] sd 25:0:0:0: [sdc] Attached SCSI removable disk
+[1647489.786135] FAT: utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+[1679583.427513] usb 1-4: USB disconnect, address 4
+[1715362.503572] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1715363.179436] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1739186.840084] usb 2-4: new high speed USB device using ehci_hcd and address 20
+[1739186.989748] usb 2-4: New USB device found, idVendor=0bb4, idProduct=0ff9
+[1739186.989760] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1739186.989769] usb 2-4: Product: Android Phone
+[1739186.989775] usb 2-4: Manufacturer: HTC
+[1739186.989780] usb 2-4: SerialNumber: SH16FRT02092
+[1739186.990010] usb 2-4: configuration #1 chosen from 1 choice
+[1739186.993106] scsi26 : SCSI emulation for USB Mass Storage devices
+[1739186.993307] usb-storage: device found at 20
+[1739186.993313] usb-storage: waiting for device to settle before scanning
+[1739191.993200] usb-storage: device scan complete
+[1739191.995183] scsi 26:0:0:0: Direct-Access     HTC      Android Phone    0100 PQ: 0 ANSI: 2
+[1739191.996563] sd 26:0:0:0: Attached scsi generic sg3 type 0
+[1739192.006068] sd 26:0:0:0: [sdc] Attached SCSI removable disk
+[1739287.436737] usb 2-4: USB disconnect, address 20
+[1739667.987646] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1739668.666137] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1900556.332272] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1900557.007508] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1908162.192083] usb 2-4: new high speed USB device using ehci_hcd and address 21
+[1908162.325498] usb 2-4: New USB device found, idVendor=0fce, idProduct=e14f
+[1908162.325510] usb 2-4: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+[1908162.325519] usb 2-4: Product: Android
+[1908162.325525] usb 2-4: Manufacturer: Android
+[1908162.325530] usb 2-4: SerialNumber: BX90330LP5
+[1908162.325757] usb 2-4: configuration #1 chosen from 1 choice
+[1908162.326510] scsi27 : SCSI emulation for USB Mass Storage devices
+[1908162.326829] usb-storage: device found at 21
+[1908162.326836] usb-storage: waiting for device to settle before scanning
+[1908167.324398] usb-storage: device scan complete
+[1908167.325980] scsi 27:0:0:0: Direct-Access     SEMC     Mass Storage     0100 PQ: 0 ANSI: 4
+[1908167.327056] sd 27:0:0:0: Attached scsi generic sg3 type 0
+[1908167.330533] sd 27:0:0:0: [sdc] Attached SCSI removable disk
+[1908506.258190] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1908506.937449] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1908782.589187] usb 2-4: USB disconnect, address 21
+[1908782.908074] usb 2-4: new high speed USB device using ehci_hcd and address 22
+[1908783.041622] usb 2-4: New USB device found, idVendor=0fce, idProduct=014f
+[1908783.041634] usb 2-4: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+[1908783.041643] usb 2-4: Product: LT18i
+[1908783.041648] usb 2-4: Manufacturer: Sony
+[1908783.041654] usb 2-4: SerialNumber: BX90330LP5
+[1908783.041873] usb 2-4: configuration #1 chosen from 1 choice
+[1910256.774598] usb 2-4: USB disconnect, address 22
+[1988062.310336] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[1988062.989282] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
+[1988261.330881] __ratelimit: 258 callbacks suppressed
+[1988261.330886] soffice.bin[20090]: segfault at 7fc55fc201db ip 00007fc55fc201db sp 00007fc55358ed00 error 14 in libglib-2.0.so.0.2400.2[7fc55fec0000+db000]
+[2037222.458572] [drm] nouveau 0000:03:00.0: unplugged DVI-D-1
+[2037223.137863] [drm] nouveau 0000:03:00.0: plugged DVI-D-1
